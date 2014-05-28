@@ -134,7 +134,8 @@ gameDetail.php
 1. Change Sublime User Settings  "translate_tabs_to_spaces": true,
 2. Change existing files (View -> Indentation -> Convert Indentation to Spaces)
 2. Create a single flat file for students (Fetch all students from DB)
-3. Separate into Three files (index.php, model.php, studentList.php)
+3. Separate into Three files (index.php, model.php, studentList.php) See https://github.com/PhoenixRockit/standards/tree/master/php/student
+4. Separate into Three files Games https://github.com/PhoenixRockit/standards/tree/master/php/games
 
 
 # Homework
