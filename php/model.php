@@ -10,6 +10,18 @@ $games = array(
 function get_all_games()
 {
     return  $GLOBALS["games"];
+
+    if (condition) {
+        // pass
+
+    } elseif (condition2) {
+        // pass
+
+    } else {
+        // pass
+
+    }
+
 }
 
 function get_game_by_id($gameId)

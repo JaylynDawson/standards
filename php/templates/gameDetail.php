@@ -1,4 +1,4 @@
-<?php $title = $post['title'] ?>
+<?php $title = $game['title'] ?>
 
 <?php ob_start() ?>
     <h1><?php echo $game[Title] ?></h1>
